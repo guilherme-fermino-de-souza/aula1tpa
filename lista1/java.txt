@@ -1,0 +1,13 @@
+import java.util.Scanner;
+	public class lista1 {
+		public static void main(String args) {
+	Scanner leia = new Scanner (System.in);
+	int atual , data, idade;
+	System.out.println("escreva o ano  atual");
+	atual = leia.nextInt();
+	System.out.println("escreva o ano de nascimento");
+	data = atual - data;
+	System.out.println("a idade e "+ idade);
+    } 
+}
+
